@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="detail">Detail</string>
+    <string name="name">ชื่อ</string>
+    <string name="sirmane">นามสกุล</string>
+    <string name="email">E-mail</string>
+    <string name="phone">เบอร์โทรศัพท์</string>
+    <string name="id">ID Name</string>
+    <string name="pass">Password</string>
+    <string name="regis">Register</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="play">Play Game</string>
+
+    <string name="had">Ishihara</string>
+    <string name="what1">What is this ?</string>
+    <string name="what2">2. What is this ?</string>
+    <string name="what3">3. What is this ?</string>
+    <string name="what4">4. What is this ?</string>
+    <string name="what5">5. What is this ?</string>
+    <string name="what6">6. What is this ?</string>
+    <string name="what7">7. What is this ?</string>
+    <string name="what8">8. What is this ?</string>
+    <string name="what9">9. What is this ?</string>
+    <string name="what10">10. What is this ?</string>
+    <string name="a1">Number 3</string>
+    <string name="a2">Number 5</string>
+    <string name="a3">Number 6</string>
+    <string name="a4">Number 12</string>
+    <string name="a5">Number 29</string>
+    <string name="a6">Number 45</string>
+    <string name="a7">Number 71</string>
+    <string name="a8">Number 42</string>
+    <string name="a9">Number 8</string>
+    <string name="a10">Number 4</string>
+    <string name="exit">Exit</string>
+    <string name="again">Play Again</string>
+    <string name="answer">Answer</string>
+
+</resources>
